@@ -2,7 +2,7 @@
     header('Content-type: text/html; charset=utf-8');
     session_start();  
     
-    $rootDirectory = "/GitHub/Library";
+    $rootDirectory = "/Library/";
     $setSessionname = 'testSession';
     $setpageTitle = 'Library Conntent';    
     
