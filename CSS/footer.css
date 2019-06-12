@@ -1,0 +1,36 @@
+/* 
+    Created on : Oct 22, 2018, 12:29:05 PM
+    Author     : veli.rexhepi
+*/
+
+.footer {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;     
+    margin: 20px 0 0 0;
+    padding: 14px 0;
+    background-color: #1a2747;
+}
+
+.footer-suggestionMessage {
+    font-size: 16px;    
+    color: white;
+    text-align: center;
+}
+
+.visitCounter {
+    font-size: 16px;    
+    color: white;
+    text-align: center;    
+}
+
+.footerRights {
+    width: 1280px;    
+    font-size: 14px;    
+    color: white;    
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 3px black;
+    margin: 10px auto 0 auto;   
+    padding: 10px 0 0 0;
+    border-top: 1px solid #a82025;    
+}

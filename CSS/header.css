@@ -1,0 +1,68 @@
+/* 
+    Created on : Oct 22, 2018, 12:28:56 PM
+    Author     : veli.rexhepi
+*/
+
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    min-width: 1280px;    
+    background-color: #253967;
+}
+
+.header-downBlock {
+    display: flex;  
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;    
+    height: 101px;    
+}
+
+.companyLogoImage-holder {    
+    display: flex;
+    align-items: center;
+    padding: 5px;    
+    height: 101px;    
+}
+
+.header-searchBar {
+    display: flex;
+    width: 300px;     
+    margin: auto 200px auto 0;        
+}
+
+.header-searchBar > .w3-input {
+    height: 30px;
+    padding: 0 16px;    
+    color: white !important;
+    background-color: #21325b !important;    
+}
+
+.header-searchBar > .w3-button {
+    height: 30px;    
+    padding: 0 20px 0 15px;
+}
+
+.header-portalTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 34px;
+    line-height: 40px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    color: white;
+    text-align: center;
+    padding: 0;
+    margin: 0;    
+}
+
+.header-portalTitleDescription {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: normal;
+    letter-spacing: 1px;
+    color: white;
+    text-align: center;
+    padding: 0;
+    margin: 0;    
+}

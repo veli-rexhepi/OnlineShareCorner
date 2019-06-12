@@ -1,0 +1,74 @@
+/* 
+    Created on : Nov 21, 2018, 10:52:40 AM
+    Author     : veli.rexhepi
+*/
+
+.navigation-holder {
+    display: flex;
+    justify-content: center;    
+    margin: 20px 0;
+}
+
+.navigation-verticalLine {
+    height: 30px;
+    border-left: 1px solid lightgrey;
+}
+
+.mainNavBar {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: red !important;
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    width: 1280px;
+    margin: auto auto;    
+    background-color: #ffffff !important;    
+}
+
+.mainNavBar-element {        
+    color: #273a66 !important;   
+    margin: 3px;
+    border-radius: 3px;
+    background-color: white !important;
+    -webkit-transition: background-color 0.75s; /* Safari */    
+    transition: background-color 0.75s;
+}
+
+.mainNavBar-element-last {
+    color: #273a66 !important;      
+    background-color: white !important;
+    -webkit-transition: background-color 0.75s; /* Safari */    
+    transition: background-color 0.75s;
+}
+
+.mainNavBar-element:hover {
+    text-decoration: none !important;    
+    margin: 3px;
+    border-radius: 3px;
+    color: #273a66 !important;
+    background-color: #eff2f9 !important;
+    -webkit-transition: background-color 0.75s; /* Safari */    
+    transition: background-color 0.75s;
+    
+}
+
+.mainNavBar-dropDownElement {
+    font-size: 16px;
+    color: #273a66 !important;  
+    border-right: 1px solid lightgrey !important;
+    background-color: white !important;
+}
+
+.mainNavBar-dropDownElement:hover {
+    font-size: 16px;
+    color: #273a66 !important;
+    background-color: #eff2f9 !important;
+}
+
+.iconStyle {
+    width: 22px;
+    text-align: center;
+    margin-right: 5px;    
+}

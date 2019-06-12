@@ -1,0 +1,53 @@
+/* 
+    Created on : Sep 20, 2016, 3:57:33 PM
+    Author     : Veli.Rexhepi
+*/
+
+.noselect {        
+    /* iOS Safari */
+    -webkit-touch-callout: none; 
+    /* Chrome/Safari/Opera */
+    -webkit-user-select: none;   
+    /* Konqueror */
+    -khtml-user-select: none;    
+    /* Firefox */
+    -moz-user-select: none;      
+    /* Internet Explorer/Edge */
+    -ms-user-select: none;       
+    /* Non-prefixed version, currently not supported by any browser */
+    user-select: none;                                       
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    width: 100%;    
+    padding: 10px 0 12px 0;    
+}
+
+.paginationBtn {
+    min-width: 80px;
+    font-size: 14px;
+    line-height: 26px;
+    padding: 0;
+    border: 1px solid #2092bf !important;    
+}
+
+.paginationNo {
+    display: flex;
+    justify-content: center;
+    align-items: center;      
+    -webkit-transition:all 0.3s ease;transition:all 0.3s ease;
+    border: 1px solid #2092bf !important;
+    cursor: pointer;
+}
+
+.paginationNo:hover {
+    box-shadow:0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    -webkit-transition:all 0.3s ease;transition:all 0.3s ease;
+    border: 1px solid #2092bf !important;
+}
+
+.paginationBtnDisabled {
+    display: disabled;
+}

@@ -1,0 +1,128 @@
+/* 
+    Created on : Nov 25, 2018, 9:47:30 AM
+    Author     : veli.rexhepi
+*/
+
+.mainTtile {
+    text-decoration: none;
+}
+
+.firstArticleTitle-holder {
+    display: flex;
+    justify-content: center;    
+}
+
+.firstArticleTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;    
+    text-align: center;  
+    color: #253967;      
+    margin-top: 150px;
+}
+
+.description {    
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 18px;
+    text-align: justify;
+    text-justify: inter-word;    
+}
+
+.subPageGenerator-holder {
+    display: flex;
+    flex-wrap: wrap;   
+    max-width: 1280px;    
+    margin: auto auto;    
+}
+
+.managementReviews-containerList {
+    width: 100%;
+    
+    /* For 13 files in list */
+    /*min-height: 640px;*/ 
+    
+    /* For 14 files in list */
+    min-height: 685px;
+}
+
+.containerList-TitleHolder {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.containerList-Title {
+    line-height: 40px;
+    color: #2a81b8;
+}
+
+.containerList-Button {
+    font-weight: bold;
+    width: 120px;
+    color: #2a81b8;
+    border: 1px solid #2a81b8 !important;
+    border-radius: 3px;
+}
+
+.containerList-GoBack {
+    margin-right: 5px;
+}
+
+.containerList-elements {
+    line-height: 40px;
+    margin: 5px 25px 0 25px;
+}
+
+.containerList-elements-type2 {
+    font-weight: bold;
+    font-size: 15px;
+    color: #2a81b8;
+    line-height: 40px;
+    margin: 5px 25px 0 25px;
+}
+
+.conatinnerListLinks {
+    display: inline;
+    font-size: 15px;
+    color: #2a81b8;
+    text-decoration: none;
+    margin: 5px 5px 0 5px;    
+}
+
+.conatinnerListLinks-type2 {
+    display: inline;    
+    text-decoration: none;
+    margin: 5px 5px 0 5px;    
+}
+
+.containerListHolder-Folders {
+    margin: 0;
+    padding: 0 0 15px 0;        
+}
+
+.containerListHolder-files {
+    margin: 0;
+    padding: 0 0 15px 0;      
+}
+
+.containerList-elements-OrdinalNr {
+    color: #2a81b8;
+    margin-left: 10px;
+}
+
+.containerList-elements-OrdinalNr-type2 {
+    margin-left: 10px;
+}
+
+.pageHolder {
+    display: none;
+}
+
+.suPageGenerator-subTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: #2a81b8;
+    line-height: 36px;    
+    text-indent: 15px;
+}
