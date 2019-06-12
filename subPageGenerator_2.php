@@ -5,6 +5,7 @@
     $rootDirectory = "/Library/";
     
     if(filter_input(INPUT_GET, 'sessionName')) {
+        
         $sessionName = filter_input(INPUT_GET, 'sessionName');
         $_SESSION['sessionName'] = $sessionName;
         
