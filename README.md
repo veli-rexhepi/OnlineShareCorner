@@ -1,4 +1,4 @@
-# Library
+# THE ONLINE SHARE CORNER
 The Online Share Corner is a website that loads folders and files in their original structure from the targeted network share drive and publishes them on the website automatically. Also, all the changes made with the folders and files on network share drive are reflected automatically to the website. For instance, if a new file or folder is added or deleted on the network share drive, this change will be published automatically on website in the same structure as they are on network share drive. Commonly used file types in corporate environments are supported. Documentation published on this website can be viewed and downloaded by the visitors.
 
 This published sample represents only a part of the original project which has been developed for sharing the company documentation in the corporate intranet. In addition, the original project provides information for visitors about the company activities, standards, events, resources, trainings, contacts, links and many other useful information.
