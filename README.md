@@ -1,5 +1,5 @@
 # Library
-An online dynamic library that loads the folder and file structure of the targeted Share Drive and publishes on the website automatically. Also, automatically changes the website content when the content in Share Drive is changed. If a new file or folder is added or deleted in the Share Drive, the changes automatically will be published on website in the same structure as it is on Share Drive. Files posted can be viewed and downloaded from the site. This sample represents only a part of the original project which is used as a Share Point to share the company documents internally over the web.
+The Online Share Corner is a website that loads folders and files in their original structure from the targeted network share drive and publishes them on the website automatically. Also, all the changes made with the folders and files on network share drive are reflected automatically to the website. For instance, if a new file or folder is added or deleted on the network share drive, this change will be published automatically on website in the same structure as they are on network share drive. Commonly used file types in corporate environments are supported. Documentation published on this website can be viewed and downloaded by the visitors.
 
 Developed using PHP, JS & AJAX.
 
