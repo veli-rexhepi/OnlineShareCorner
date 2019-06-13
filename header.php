@@ -6,7 +6,7 @@
         
         <div class="header-portal">            
             <p class="header-portalTitle">Library</p>
-            <p class="header-portalTitleDescription">Display Library Content</p>
+            <p class="header-portalTitleDescription">The Online Share Corner</p>
         </div>
         
         <a class="companyLogoImage-holder" href="#" target="_blank" style="visibility:hidden">
