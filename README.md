@@ -3,4 +3,4 @@ The Online Share Corner is a website that loads folders and files in their origi
 
 This published sample represents only a part of the original project which has been developed for sharing the company documentation in the corporate intranet. In addition, the original project provides information for visitors about the company activities, standards, events, resources, trainings, contacts, links and many other useful information.
 
-This project is developed using PHP, JavaScript and AJAX. For demonstration purpose it is published online, and it is available on the following link: https://librarysample.000webhostapp.com/index.php. Also, the full code of this sample project is available on my GitHub account on the following link: https://github.com/veli-rexhepi/Library.
+This project is developed using PHP, JavaScript and AJAX. For demonstration purpose it is published online, and it is available on the following link: https://librarysample.000webhostapp.com/index.php. Also, the full code of this sample project is available on my GitHub account on the following link: https://github.com/veli-rexhepi/ShareCornerOnline.
