@@ -1,6 +1,6 @@
 # Library
 The Online Share Corner is a website that loads folders and files in their original structure from the targeted network share drive and publishes them on the website automatically. Also, all the changes made with the folders and files on network share drive are reflected automatically to the website. For instance, if a new file or folder is added or deleted on the network share drive, this change will be published automatically on website in the same structure as they are on network share drive. Commonly used file types in corporate environments are supported. Documentation published on this website can be viewed and downloaded by the visitors.
 
-Developed using PHP, JS & AJAX.
+This published sample represents only a part of the original project which has been developed for sharing the company documentation in the corporate intranet. In addition, the original project provides information for visitors about the company activities, standards, events, resources, trainings, contacts, links and many other useful information.
 
-Published on the link: https://librarysample.000webhostapp.com/index.php
+This project is developed using PHP, JavaScript and AJAX. For demonstration purpose it is published online, and it is available on the following link: https://librarysample.000webhostapp.com/index.php. Also, the full code of this sample project is available on my GitHub account on the following link: https://github.com/veli-rexhepi/Library.
